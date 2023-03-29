@@ -22,6 +22,6 @@ nothing = "nada";
 console.log(nothing);
 console.log(typeof nothing);
 // print a variable that causes a ReferenceError
-console.log(dogs);
+// console.log(dogs);
 // alter the previous line to no longer cause a ReferenceError
 console.log(bool);
