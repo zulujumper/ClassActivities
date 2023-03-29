@@ -1,5 +1,3 @@
-const { type } = require("os");
-
 // create a variable called "name" that references a string
 let name = "DrewP";
 // create a variable called "favoriteSong" that references a string
