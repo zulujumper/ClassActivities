@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-undef */
 // create an Array using an Array literal
 let names = ["DrewP", "Shelley", "Carissa", "Cassandra", "Braedon", "Caitlynn"]
 
