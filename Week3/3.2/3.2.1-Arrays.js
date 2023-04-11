@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-undef */
+// create an Array using an Array literal
+=======
 // // create an Array using an Array literal
+>>>>>>> 9cfac8b43198cba25b939ad73e55db4ffd7df6ff
 let names = ["DrewP", "Shelley", "Carissa", "Cassandra", "Braedon", "Caitlynn"]
 
 // // access the 1st item in the Array
