@@ -6,9 +6,13 @@ let z = {
   loggedIn: false
 };
 // reassign x, y, and z to FALSY values
-
+x = false;
+y = [];
+z = "";
 // print x, y, and z
-
+console.log(x);
+console.log(y);
+console.log(z);
 const a = "name";
 const b = [];
 const c = {};
