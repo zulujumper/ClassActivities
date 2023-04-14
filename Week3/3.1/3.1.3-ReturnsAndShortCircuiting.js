@@ -22,12 +22,12 @@ function shortCircuitFunction() {
 let height = 50;
 function checkCircusRides() {
   if (height < 48) {
-    console.log("Take a ride on the carousel!");
+    return "Take a ride on the carousel!";
   }
   if (height < 60) {
-    console.log("Try the bumper cars!");
+   return "Try the bumper cars!";
   }
-  console.log("Enjoy the roller coaster!");
+ return "Enjoy the roller coaster!";
 }
 
 // change the function above to use short circuiting

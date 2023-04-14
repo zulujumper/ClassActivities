@@ -39,20 +39,23 @@ obj.method = function() {
 
 // Fill in your favorite movie, number and color below
 obj["favorites"] = {
-  movie: "",
-  number: 0,
-  color: ""
+  movie: "Godzilla",
+  number: 47,
+  color: "Blue"
 };
 
 // Add a list (a.k.a array) to an Object
 obj.list = ["a", "b", 3, "d", ["e", 4, 5], { f: 6 }];
 
 // Using the 'for...in' loop to iterate over 'obj' object ...
-// how many lines will the following statement print?
-// what do you expect to see on each line?
+// how many lines will the following statement print? 5
+// what do you expect to see on each line? 
+// 
 for (let key in keys) {
   console.log(`Key is: ${key} and value is: ${obj[key]}`);
 }
+
+
 
 // Use a template literal to print a sentence about your favorite things
 
